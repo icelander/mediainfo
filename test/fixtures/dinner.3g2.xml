@@ -8,7 +8,7 @@
 <Format_profile>3GPP Media Release 5</Format_profile>
 <Codec_ID>3gp5</Codec_ID>
 <File_size>6.21 MiB</File_size>
-<Duration>3mn 36s</Duration>
+<Duration>3 min 36 s</Duration>
 <Overall_bit_rate>241 Kbps</Overall_bit_rate>
 </track>
 
@@ -22,7 +22,7 @@
 <Format_settings__GMC>No warppoints</Format_settings__GMC>
 <Format_settings__Matrix>Default (H.263)</Format_settings__Matrix>
 <Codec_ID>20</Codec_ID>
-<Duration>3mn 36s</Duration>
+<Duration>3 min 36 s</Duration>
 <Bit_rate_mode>Constant</Bit_rate_mode>
 <Bit_rate>219 Kbps</Bit_rate>
 <Nominal_bit_rate>23.0 Kbps</Nominal_bit_rate>
@@ -45,7 +45,7 @@
 <ID>2</ID>
 <Format>QCELP</Format>
 <Codec_ID>E1</Codec_ID>
-<Duration>3mn 36s</Duration>
+<Duration>3 min 36 s</Duration>
 <Bit_rate_mode>Constant</Bit_rate_mode>
 <Bit_rate>14.0 Kbps</Bit_rate>
 <Channel_s_>1 channel</Channel_s_>

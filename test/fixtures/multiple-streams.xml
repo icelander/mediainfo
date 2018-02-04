@@ -7,7 +7,7 @@
       <Format_profile>QuickTime</Format_profile>
       <Codec_ID>qt  </Codec_ID>
       <File_size>101 MiB</File_size>
-      <Duration>1mn 25s</Duration>
+      <Duration>1 min 25 s</Duration>
       <Overall_bit_rate>9 872 Kbps</Overall_bit_rate>
       <Encoded_date>UTC 2009-08-18 16:42:50</Encoded_date>
       <Tagged_date>UTC 2009-08-18 16:42:55</Tagged_date>
@@ -24,7 +24,7 @@
       <Format_settings__ReFrames>4 frames</Format_settings__ReFrames>
       <Codec_ID>avc1</Codec_ID>
       <Codec_ID_Info>Advanced Video Coding</Codec_ID_Info>
-      <Duration>1mn 25s</Duration>
+      <Duration>1 min 25 s</Duration>
       <Bit_rate_mode>Variable</Bit_rate_mode>
       <Bit_rate>9 392 Kbps</Bit_rate>
       <Width>1 280 pixels</Width>
@@ -77,7 +77,7 @@
       <Format_profile>LC</Format_profile>
       <Format_settings__SBR>No</Format_settings__SBR>
       <Codec_ID>40</Codec_ID>
-      <Duration>1mn 25s</Duration>
+      <Duration>1 min 25 s</Duration>
       <Bit_rate_mode>Variable</Bit_rate_mode>
       <Bit_rate>256 Kbps</Bit_rate>
       <Channel_s_>2 channels</Channel_s_>

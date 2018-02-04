@@ -7,7 +7,7 @@
 <Format>AVI</Format>
 <Format_Info>Audio Video Interleave</Format_Info>
 <File_size>3.76 MiB</File_size>
-<Duration>15s 164ms</Duration>
+<Duration>15 s 164 ms</Duration>
 <Overall_bit_rate>2 078 Kbps</Overall_bit_rate>
 <Mastered_date>2005/07/24/ 14:58  </Mastered_date>
 <Writing_application>CASIO EX-Z55                  </Writing_application>
@@ -18,7 +18,7 @@
 <ID>0</ID>
 <Format>M-JPEG</Format>
 <Codec_ID>MJPG</Codec_ID>
-<Duration>15s 164ms</Duration>
+<Duration>15 s 164 ms</Duration>
 <Bit_rate>2 019 Kbps</Bit_rate>
 <Width>320 pixels</Width>
 <Height>240 pixels</Height>
@@ -35,7 +35,7 @@
 <Format>ADPCM</Format>
 <Codec_ID>11</Codec_ID>
 <Codec_ID_Hint>Intel</Codec_ID_Hint>
-<Duration>15s 164ms</Duration>
+<Duration>15 s 164 ms</Duration>
 <Bit_rate_mode>Constant</Bit_rate_mode>
 <Bit_rate>44.1 Kbps</Bit_rate>
 <Channel_s_>1 channel</Channel_s_>

@@ -8,7 +8,7 @@
 <Format_profile>QuickTime</Format_profile>
 <Codec_ID>qt  </Codec_ID>
 <File_size>185 MiB</File_size>
-<Duration>36s 286ms</Duration>
+<Duration>36 s 286 ms</Duration>
 <Overall_bit_rate>42.7 Mbps</Overall_bit_rate>
 <Encoded_date>UTC 2009-03-30 19:49:13</Encoded_date>
 <Tagged_date>UTC 2009-03-30 19:57:57</Tagged_date>
@@ -25,7 +25,7 @@
 <Format_settings__ReFrames>2 frames</Format_settings__ReFrames>
 <Codec_ID>avc1</Codec_ID>
 <Codec_ID_Info>Advanced Video Coding</Codec_ID_Info>
-<Duration>36s 286ms</Duration>
+<Duration>36 s 286 ms</Duration>
 <Bit_rate_mode>Variable</Bit_rate_mode>
 <Bit_rate>41.2 Mbps</Bit_rate>
 <Width>1 920 pixels</Width>
@@ -53,7 +53,7 @@
 <Format_settings__Endianness>Little</Format_settings__Endianness>
 <Format_settings__Sign>Signed</Format_settings__Sign>
 <Codec_ID>sowt</Codec_ID>
-<Duration>36s 286ms</Duration>
+<Duration>36 s 286 ms</Duration>
 <Bit_rate_mode>Constant</Bit_rate_mode>
 <Bit_rate>1 536 Kbps</Bit_rate>
 <Channel_s_>2 channels</Channel_s_>

@@ -8,7 +8,7 @@
 <Format_profile>Base Media</Format_profile>
 <Codec_ID>isom</Codec_ID>
 <File_size>11.5 MiB</File_size>
-<Duration>1mn 46s</Duration>
+<Duration>1 min 46 s</Duration>
 <Overall_bit_rate>911 Kbps</Overall_bit_rate>
 <Writing_application>Lavf52.39.0</Writing_application>
 </track>
@@ -23,7 +23,7 @@
 <Format_settings__ReFrames>4 frames</Format_settings__ReFrames>
 <Codec_ID>avc1</Codec_ID>
 <Codec_ID_Info>Advanced Video Coding</Codec_ID_Info>
-<Duration>1mn 46s</Duration>
+<Duration>1 min 46 s</Duration>
 <Bit_rate_mode>Variable</Bit_rate_mode>
 <Bit_rate>780 Kbps</Bit_rate>
 <Width>576 pixels</Width>
@@ -52,7 +52,7 @@
 <Format_profile>LC</Format_profile>
 <Format_settings__SBR>No</Format_settings__SBR>
 <Codec_ID>40</Codec_ID>
-<Duration>1mn 46s</Duration>
+<Duration>1 min 46 s</Duration>
 <Bit_rate_mode>Variable</Bit_rate_mode>
 <Bit_rate>128 Kbps</Bit_rate>
 <Channel_s_>2 channels</Channel_s_>

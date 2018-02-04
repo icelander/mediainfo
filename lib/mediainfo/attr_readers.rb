@@ -45,19 +45,36 @@ module AttrReaders
     Mediainfo.supported_attributes << supported_attribute
   end
   
+  # Returns the duration in milliseconds
   def mediainfo_duration_reader(*a)
     mediainfo_attr_reader *a do |v|
       t = 0
-      v.split(/\s+/).each do |tf|
-        case tf
-        # XXX haven't actually seen hot they represent hours yet 
-        # but hopefully this is ok.. :\
-        when /\d+h/  then t += tf.to_i * 60 * 60 * 1000
-        when /\d+mn/ then t += tf.to_i * 60 * 1000
-        when /\d+ms/ then t += tf.to_i
-        when /\d+s/  then t += tf.to_i * 1000
-        else
-          raise "unexpected time fragment! please report bug!"
+      amount = 0
+      count = 0
+
+      # mediainfo always returns a string like 'x U y u,' 
+      # where x and y are integers and U and u are the 
+      # larger and smaller units, respectively
+      # So array values 0 and 2 contain the amounts and 
+      # values 1 and 3 contain the units
+
+      v.split(/\s/).each_with_index do |tf,i|
+        case i
+          when *[0,2] 
+            amount = tf.to_i
+          when *[1,3]
+            case tf
+              when 'h'
+                t += amount * 60 * 60 * 1000 
+              when 'min'
+                t += amount * 60 * 1000
+              when 'ms'
+                t += amount
+              when 's'
+                t += amount * 1000
+            else
+              raise "unexpected time fragment: #{tf}! please report bug!"
+            end
         end
       end
       t

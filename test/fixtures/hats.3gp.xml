@@ -8,7 +8,7 @@
 <Format_profile>3GPP Media Release 6 Basic</Format_profile>
 <Codec_ID>3gp6</Codec_ID>
 <File_size>2.99 MiB</File_size>
-<Duration>5mn 1s</Duration>
+<Duration>5 mn 1s</Duration>
 <Overall_bit_rate>83.2 Kbps</Overall_bit_rate>
 <Encoded_date>UTC 2009-01-23 21:20:06</Encoded_date>
 <Tagged_date>UTC 2009-01-23 21:20:07</Tagged_date>
@@ -24,7 +24,7 @@
 <Format_settings__ReFrames>2 frames</Format_settings__ReFrames>
 <Codec_ID>avc1</Codec_ID>
 <Codec_ID_Info>Advanced Video Coding</Codec_ID_Info>
-<Duration>5mn 1s</Duration>
+<Duration>5 min 1 s</Duration>
 <Bit_rate_mode>Variable</Bit_rate_mode>
 <Bit_rate>57.5 Kbps</Bit_rate>
 <Width>176 pixels</Width>
