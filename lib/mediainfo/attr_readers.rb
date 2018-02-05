@@ -65,7 +65,7 @@ module AttrReaders
           when *[1,3]
             case tf
               when 'h'
-                t += amount * 60 * 60 * 1000 
+                t += amount * 60 * 60 * 1000
               when 'min'
                 t += amount * 60 * 1000
               when 'ms'
@@ -77,7 +77,9 @@ module AttrReaders
             end
         end
       end
-      t
+      # So this outputs the duration in milliseconds, which isn't very useful
+      # It would be better if we could output it as a time object
+      t/1000.0
     end
   end
   
